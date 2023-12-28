@@ -1,0 +1,37 @@
+#con{
+    
+    background-color: aliceblue;
+    width: 700px;
+    height: 400px;
+    margin-left: 310px;
+  
+    display: flex;
+    flex-direction: column;
+    border: 1px solid purple;
+    border-width: 2px 6px ;
+    border-radius: 8px;
+   
+    
+    margin-top: 50px;
+   
+    
+}
+
+
+#jibu {
+    text-align: center;
+}
+#text {
+    
+    color: blueviolet;
+    font-size: 48px;
+    font-weight: 600;
+    
+}
+.underline {
+    width: 100px;
+    height: 6px;
+    background-color: blueviolet;
+    border-radius: 9px;
+    
+}

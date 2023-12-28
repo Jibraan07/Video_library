@@ -1,0 +1,35 @@
+#banner {
+    background-color:whitesmoke;
+    height: 150vh;
+   
+    
+    
+    
+    
+}
+
+.line {
+    border: 1px   solid gray;
+    border-radius: 20px;
+    border-width: 1px 7px;
+    padding: 45px;
+    margin-left: 460px;
+    
+   
+   
+    
+   
+}
+.usr {
+    color:purple;
+    font-size: 50px;
+    margin-left: 10px;
+    
+    
+}
+
+    
+
+
+
+/*background-image: url("/public/pexels.jpg");*/ 

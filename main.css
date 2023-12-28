@@ -1,0 +1,12 @@
+#bag {
+    background-image: url("/public/youtube.svg");
+    
+    height: 150vh;
+    background-size: cover;
+    
+}
+.brand{
+    margin-top: 200px;
+}
+
+
